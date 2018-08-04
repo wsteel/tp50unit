@@ -1,0 +1,32 @@
+{
+  "name": "wsteel/tp50unit",
+  "type": "phpunit",
+  "description": "A simple unit test for thinkphp5.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wang.Gang",
+      "email": "glogger@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.0.0",
+    "phpunit/phpunit": "6.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "tests\\": "tests",
+      "tp5unit\\": "src/tp50unit"
+    },
+    "files": [
+      "src/tp50unit/init_tp50.php"
+    ]
+  },
+  "keywords": [
+    "tp50unit",
+    "phpunit",
+    "ThinkPHP5"
+  ],
+  "homepage": "https://github.com/wsteel/tp50unit"
+}
