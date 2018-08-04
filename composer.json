@@ -10,10 +10,7 @@
     }
   ],
   "minimum-stability": "stable",
-  "require": {
-    "php": ">=7.0.0",
-    "phpunit/phpunit": "6.*"
-  },
+
   "autoload": {
     "psr-4": {
       "tests\\": "tests",
