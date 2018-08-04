@@ -5,7 +5,7 @@
  * 2018/8/4
  */
 
-namespace tp50unit;
+namespace wsteel\tp50unit;
 
 class TestCase extends \PHPUnit\Framework\TestCase
 {

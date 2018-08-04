@@ -14,10 +14,10 @@
   "autoload": {
     "psr-4": {
       "tests\\": "tests",
-      "tp5unit\\": "src/tp50unit"
+      "wsteel\\tp50unit\\": "src/wsteel/tp50unit"
     },
     "files": [
-      "src/tp50unit/init_tp50.php"
+      "src/wsteel/tp50unit/init_tp50.php"
     ]
   },
   "keywords": [
