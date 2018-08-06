@@ -7,6 +7,8 @@
 
 namespace wsteel\tp50unit;
 
+require 'init_tp50.php';
+
 class TestCase extends \PHPUnit\Framework\TestCase
 {
 

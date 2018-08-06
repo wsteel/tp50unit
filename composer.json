@@ -15,10 +15,7 @@
     "psr-4": {
       "tests\\": "tests",
       "wsteel\\tp50unit\\": "src/wsteel/tp50unit"
-    },
-    "files": [
-      "src/wsteel/tp50unit/init_tp50.php"
-    ]
+    }
   },
   "keywords": [
     "tp50unit",
